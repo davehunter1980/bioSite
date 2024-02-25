@@ -1,6 +1,6 @@
 body {
     background-color: #6666ff;
-    color: white;
+    color: lightgray;
 }
 
 h1 {
@@ -51,9 +51,13 @@ footer {
     text-decoration: none;
 }
 
+li {
+    text-align: center;
+}
+
 table {
     background-color: darkmagenta;
-    color: white;
+    color: lightgray;
     align-self: center;
     word-spacing: 25px;
 }
@@ -69,11 +73,11 @@ td a:hover {
 }
 
 .question {
-    color: darkmagenta;
+    color: lightgreen;
     font-style: italic;
 }
 
 .answer {
-    color: white;
+    color: lightgray;
     font-style: bold;
 }
